@@ -1,0 +1,40 @@
+h1 {
+	text-align: center;
+	text-shadow: 0 0 10px white;
+	margin-top: 150px;
+}
+
+h2 {
+	text-shadow: 0 0 10px lightseagreen;
+}
+
+img {
+	width: 200px;
+	height: 280px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+}
+
+body {
+	background: lightseagreen;
+	text-align: center;
+}
+
+div {
+	border: black 2px solid;
+	display: inline-block;
+	text-align: center;
+	background: lightcyan;
+	padding: 20px;
+	border-radius: 20px;
+}
+
+a {
+	color: black;
+	text-shadow: 0 0 10px black;
+	border: 2px black solid;
+	padding: 5px;
+	background: lightseagreen;
+	border-radius: 10px;
+	text-decoration: none;
+}
